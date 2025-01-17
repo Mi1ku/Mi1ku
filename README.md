@@ -1,9 +1,9 @@
 # Mikus<h1 align="center">Cześć 👋, Jestem Mi1ku</h1>
 <h3 align="center">Młody developer FrontEndu z Polski</h3>
 
-- 🌱 Aktualnie ucze się **HTML,CSS, Python, Lua and Javascript.**
+- 🌱 Aktualnie ucze się **HTML,CSS, Python, PHP, C#, Lua and Javascript.**
 
-- 💻 Moja strona internetowa [https://pieknymikus.pl/](https://pieknymikus.pl/)
+- 💻 Moja strona internetowa Brak!
 
 - 👨‍💻 Moje portfolio jest dostępne tu [https://mi1ku.github.io/portfolio/](https://mi1ku.github.io/portfolio/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Moje Socialmedia:</h3>
 <p align="left">
-<a href="https://instagram.com/pieknymikus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/pieknymikus" height="30" width="40" /></a>
+<a href="https://instagram.com/76mikus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/pieknymikus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mi1kutv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/c/mi1kutv" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/327134486288662570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/327134486288662570" height="30" width="40" /></a>
 </p>
