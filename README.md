@@ -1,9 +1,9 @@
 # Mikus<h1 align="center">Cześć 👋, Jestem Mi1ku</h1>
 <h3 align="center">Młody developer FrontEndu z Polski</h3>
 
-- 🌱 Aktualnie ucze się **HTML,CSS, Python, PHP, C#, Lua and Javascript.**
+- 🌱 Aktualnie ucze się **HTML,CSS, C++, React.JS, Python, PHP, C#, Lua and Javascript.**
 
-- 💻 Moja strona internetowa Brak!
+- 💻 Moja strona internetowa [https://mikusweb.netlify.app/#]
 
 - 👨‍💻 Moje portfolio jest dostępne tu [https://mi1ku.github.io/portfolio/](https://mi1ku.github.io/portfolio/)
 
