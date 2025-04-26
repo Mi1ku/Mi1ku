@@ -3,7 +3,7 @@
 
 - 🌱 Aktualnie ucze się **HTML,CSS, C++, React.JS, Python, PHP, C#, Lua and Javascript.**
 
-- 💻 Moja strona internetowa [https://mikusweb.netlify.app/#]
+- 💻 Moja strona internetowa [https://mikusweb.netlify.app/#](https://mikusweb.netlify.app/#)
 
 - 👨‍💻 Moje portfolio jest dostępne tu [https://mi1ku.github.io/portfolio/](https://mi1ku.github.io/portfolio/)
 
