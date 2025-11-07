@@ -5,7 +5,7 @@
 
 - 💻 Moja strona internetowa [https://mikusweb.netlify.app/#](https://mikusweb.netlify.app/#)
 
-- 👨‍💻 Moje portfolio jest dostępne tu [https://mi1ku.github.io/portfolio/](https://mi1ku.github.io/portfolio/)
+- 👨‍💻 Moje portfolio jest dostępne tu [https://mi1ku.github.io/portfolio/](https://76mikus.space/)
 
 - 💬 Zapytaj mnie **O wszystko czego nie rozumiesz z danego języka.**
 
