@@ -28,17 +28,17 @@ Specjalizuję się w tworzeniu zaawansowanych aplikacji webowych oraz profesjona
 
 ## 🛠️ Technologie
 
-**Web & Fullstack**
+**Programming & App Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,lua,nodejs,php,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,lua,nodejs,php,python,dotnet,cs,cpp&theme=dark" />
 </p>
 
-**Grafika & Video**
+**Design & Creative Work**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ae,pr,blender,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ps,ae,pr,blender&theme=dark" />
 </p>
 
-**Narzędzia**
+**Tools & Infrastructure**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" />
 </p>
