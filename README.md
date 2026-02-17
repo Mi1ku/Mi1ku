@@ -18,9 +18,11 @@ Cześć! Nazywam się **Mikołaj**, mam 19 lat i na co dzień uczęszczam do tec
 
 Specjalizuję się w tworzeniu zaawansowanych aplikacji webowych oraz profesjonalnej edycji wideo i grafiki.
 
-🌐 **Strona www:** [mikusweb.netlify.app](https://mikusweb.netlify.app/#)
-🚀 **Portfolio:** [76mikus.space](https://76mikus.space/)
-✉️ **Biznes:** `boydzburek@gmail.com`
+<br>
+
+[![](https://img.shields.io/badge/🌐_STRONA_WWW-8b5cf6?style=for-the-badge&logoColor=white)](https://mikusweb.netlify.app/#) &nbsp;&nbsp; [![](https://img.shields.io/badge/🚀_PORTFOLIO-8b5cf6?style=for-the-badge&logoColor=white)](https://76mikus.space/) &nbsp;&nbsp; [![](https://img.shields.io/badge/✉️_BIZNES-8b5cf6?style=for-the-badge&logoColor=white)](mailto:boydzburek@gmail.com)
+
+<br>
 
 ---
 
