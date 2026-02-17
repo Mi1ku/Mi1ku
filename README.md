@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=8b5cf6&height=160&section=header&text=Mikołaj%20(Mi1ku)&fontSize=60&animation=fadeIn&fontAlignY=50" width="100%" />
-
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Miko%C5%82aj+(Mi1ku)" alt="Typing SVG" />
 <br>
 
 <img src="https://i1.sndcdn.com/artworks-KI7d1Wz5vUayT1pt-MN6LmA-t500x500.jpg" width="180" alt="Vkie - mój ulubiony raper (to nie ja)" style="border-radius: 50%; border: 5px solid #8b5cf6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.4);" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 💜 O mnie
+## 👋 O mnie
 Cześć! Nazywam się **Mikołaj**, mam 19 lat i na co dzień uczęszczam do technikum na kierunek **Technik Programista**. Posiadam już zdaną kwalifikację zawodową **INF.03**, a do **INF.04** przystępuję w czerwcu. Moje doświadczenie obejmuje m.in. miesięczne praktyki zawodowe, gdzie doskonaliłem umiejętności w pracy z **WordPress**.
 
 Specjalizuję się w tworzeniu zaawansowanych aplikacji webowych oraz profesjonalnej edycji wideo i grafiki.
