@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Cześć%20👋%20Jestem%20Mi1ku&fontSize=50&animation=fadeIn" />
+  Mi1ku - FiveM FullStack Developer
 </h1>
 
-<h3 align="center">🚀 FiveM FullStack Developer | UI/UX & Graphics Specialist</h3>
+<h3 align="center">🚀 UI/UX | NUI Developer | Graphics Specialist</h3>
 
 ---
 
@@ -16,17 +16,17 @@
 
 ### 🛠️ Języki i Narzędzia
 
-#### 🌐 Web & FiveM Development
+#### 🌐 Web & FiveM Development (React + Lua)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,lua,nodejs,php,python" />
 </p>
 
-#### 🎨 Design & Creative
+#### 🎨 Creative Design & Software
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ae,blender,dotnet,maui" />
+  <img src="https://skillicons.dev/icons?i=ps,ae,blender,dotnet" />
 </p>
 
-#### 🔧 Infrastructure & Tools
+#### 🔧 Tools & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,pnpm" />
 </p>
@@ -35,8 +35,8 @@
 
 ### 📊 Statystyki GitHub
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mi1ku&show_icons=true&theme=tokyonight&count_private=true" alt="Statystyki Mi1ku" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mi1ku&layout=compact&theme=tokyonight" alt="Języki Mi1ku" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mi1ku&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mi1ku&layout=compact&theme=tokyonight" />
 </p>
 
 ---
