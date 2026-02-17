@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0f172a&height=200&section=header&text=Mi1ku&fontSize=80&animation=twinkling&fontAlignY=40&textBg=false&desc=FullStack%20Developer%20&%20Graphic%20Designer&descSize=20&descAlignY=65" width="100%" />
+<img src="https://i1.sndcdn.com/artworks-KI7d1Wz5vUayT1pt-MN6LmA-t500x500.jpg" width="180" alt="Vkie - mój ulubiony raper (to nie ja)" style="border-radius: 50%; border: 4px solid #111;" />
 
-<br>
-
-<img src="https://cdn.discordapp.com/avatars/1015696434818977833/218bc25de4a8677c73a7071db8858e8b.png?size=160" width="160" style="border-radius: 50%; border: 3px solid #0f172a;" />
+<h1>Mikołaj (Mi1ku)</h1>
 
 ## 👋 O mnie
 Cześć! Nazywam się **Mikołaj**, mam 19 lat i na co dzień uczęszczam do technikum na kierunek **Technik Programista**. Posiadam już zdaną kwalifikację zawodową **INF.03**, a do **INF.04** przystępuję w czerwcu. Moje doświadczenie obejmuje m.in. miesięczne praktyki zawodowe, gdzie doskonaliłem umiejętności w pracy z **WordPress**.
