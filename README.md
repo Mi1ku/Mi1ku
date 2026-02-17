@@ -11,7 +11,6 @@
 - 💻 **Moja strona:** [mikusweb.netlify.app](https://mikusweb.netlify.app/#)
 - 👨‍💻 **Portfolio:** [76mikus.space](https://76mikus.space/)
 - 📫 **Kontakt:** [mi1kubiznes@gmail.com](mailto:mi1kubiznes@gmail.com)
-- ⚡ **Zabawny Fakt:** Sądzę, że jestem bardzo śmiesznym chłopakiem :)
 
 ---
 
@@ -46,7 +45,7 @@
 <p align="left">
 <a href="https://instagram.com/76mikus" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/c/mi1kutv" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://discordapp.com/users/327134486288662570" target="badge"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/1015696434818977833" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
