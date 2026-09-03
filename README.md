@@ -14,7 +14,8 @@
 ---
 
 ## 👋 O mnie
-Cześć! Nazywam się **Mikołaj**, mam 19 lat i na co dzień uczęszczam do technikum na kierunek **Technik Programista**. Posiadam już zdaną kwalifikację zawodową **INF.03**, a do **INF.04** przystępuję w czerwcu. Moje doświadczenie obejmuje m.in. miesięczne praktyki zawodowe, gdzie doskonaliłem umiejętności w pracy z **WordPress**.
+Cześć! Nazywam się **Mikołaj**, mam 19 lat i na co dzień uczęszczam do technikum na kierunek **Technik Programista**. Posiadam już zdaną kwalifikację zawodową **INF.03** oraz **INF.04**. 
+Moje doświadczenie obejmuje m.in. miesięczne praktyki zawodowe, gdzie doskonaliłem umiejętności w pracy z **WordPress** oraz miesięczne praktyki w firmie Kaliop Poland gdzie doskonaliłem umiejętności z **Backend'u** oraz **Frontend'u**.
 
 Specjalizuję się w tworzeniu zaawansowanych aplikacji webowych oraz profesjonalnej edycji wideo i grafiki.
 
